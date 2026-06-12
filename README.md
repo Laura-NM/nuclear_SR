@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center"><img src="results/figures/f2_BE_vs_SR_Z37AB.pdf" alt="SR on binding energy" width="80%" height="auto"/></p>
+
 ---
 
 ## What is this repository?
@@ -32,6 +33,8 @@ Repository structure:
 ├── env.yml                                   # Conda environment
 └── requirements.txt                          # Requirements
 ```
+
+---
 
 ## Installation
 To install this project in your computer, choose one of the following options:
@@ -65,7 +68,7 @@ There are three five files:
 * f1_BE_SR.ipynb
 * f2_BE_SR.ipynb
 
-They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. To open each of them, run the command `jupyter notebook file.ipynb`, "file" being one of the three scripts in the list above. Each cell cell has been pre-run, so you should be able to see the outputs from the start, even before running the cells. Below is a demo of the first file being run:
+f2_BE_SR.ipynb must output, among other figures, the folowing:
 
 <p align="center"><img src="results/f2_Isotope_Map_HoFB.gif" width="100%" height="auto" /></p>
 
