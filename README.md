@@ -92,5 +92,7 @@ Linux/MacOS: `rm -r pysr-tools`
 ## Support
 
 For questions or suggestions, feel free to reach out:
+
 **nmlaau@gmail.com**  
+
 ---
